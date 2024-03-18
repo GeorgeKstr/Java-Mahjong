@@ -1,6 +1,6 @@
 # Java Mahjong Implementation
 
-This is a Java implementation of the popular Mahjong game. The game provides a graphical user interface (GUI) for players to enjoy the classic Mahjong experience on their computers.
+This Java project provides a graphical user interface (GUI) implementation of the classic Mahjong game.
 
 ## Overview
 
@@ -31,10 +31,11 @@ To run the Java Mahjong implementation on your machine, follow these steps:
 3. Compile the Java source files if necessary.
 4. Run the main Java class to start the game.
 
-## Credits
+## Contributing
 
-This Java Mahjong implementation is created by [Your Name] and [Your Team]. Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests.
+Contributions to the project are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
+## Acknowledgments
 
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
+Special thanks to the creators of Mahjong for providing inspiration for this project.
+
