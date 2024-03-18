@@ -31,11 +31,4 @@ To run the Java Mahjong implementation on your machine, follow these steps:
 3. Compile the Java source files if necessary.
 4. Run the main Java class to start the game.
 
-## Contributing
-
-Contributions to the project are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
-
-## Acknowledgments
-
-Special thanks to the creators of Mahjong for providing inspiration for this project.
 
